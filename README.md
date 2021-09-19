@@ -1,4 +1,4 @@
-## Ola, eu sou a Conceição Rocha.
+## Olá, sou a Conceição Rocha.
 <div>
   <a href="https://github.com/ConcyRocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ConcyRocha&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
